@@ -1,0 +1,23 @@
+.Hero-section{
+    height:400px;
+    width:full;
+    left:104px;
+    top:205px;
+    
+    
+}
+.Hero{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    gap:160px;
+    /* padding-left:180px; */
+    
+}
+.hero-left{
+    display:flex;
+    flex-direction:column;
+    align-items:start;
+    
+
+}

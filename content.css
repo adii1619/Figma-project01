@@ -1,0 +1,48 @@
+.Content {
+    position: absolute;
+    width: 1232px;
+    height: 1699px;
+    left: 104px;
+    top: 765px;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+.left-sidebar{
+    background:pink;
+    height:1699px;
+    width:312px;
+    padding:2rem;
+}
+.right-content{
+    background:red;
+    height:1699px;
+    width:920px;
+}
+.price{
+}
+.range{
+    /* background:black; */
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+}
+.Colors{
+}
+.color-btns {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: center;
+    gap:15px;
+}
+
+.color-btns button {
+    height: 30px;
+    width: 30px;
+    border: none;
+    border-radius: 50%;
+
+    background: black;
+}
